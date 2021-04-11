@@ -1,0 +1,25 @@
+{
+  "fulfillment_response": {
+    "messages": [
+      {
+        "payload": {
+          "richContent": [
+            [
+              {
+                "actionLink": "https://example.com",
+                "image": {
+                  "src": {
+                    "rawUrl": "https://www.next.co.uk/G27318s7/530205"
+                  }
+                },
+                "subtitle": "Lewis",
+                "title": "Jeans With Stretch",
+                "type": "info"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "pid": "1",
+      "title": "Jeans With Stretch",
+      "brand": "Lewis",
+      "price": "45.56",
+      "sale_price": "29.99",
+      "thumb_image": "",
+      "url": "https://www.next.co.uk/G27318s7/530205",
+      "description": "79% Cotton, 20% Recycled cotton, 1% Elastane"
+    },
+    {
+      "pid": "2",
+      "title": "Cotton Cargo Trousers",
+      "brand": "Lewis",
+      "price": "29.00",
+      "sale_price": "20.00",
+      "thumb_image": "",
+      "url": "https://www.next.co.uk/g572158s2/634016",
+      "description": "100% Cotton."
+    }
+  ]
+}

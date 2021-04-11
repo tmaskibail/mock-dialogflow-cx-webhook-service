@@ -1,0 +1,14 @@
+{
+  "fulfillment_response": {
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Product 1",
+            "product 2"
+          ]
+        }
+      }
+    ]
+  }
+}
