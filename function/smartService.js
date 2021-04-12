@@ -13,6 +13,7 @@ exports.nextService = functions.https.onRequest(async (req, res) => {
     console.log('Dialogflow Request body: ' + JSON.stringify(req.body));
 
     // compile GET request URL by extracting relevant params
+    //TODO: Please changhe the below URL to the URL corresponding to your service
     let url = constructUrl('https://mockbin.org/bin/07b65975-59ef-43f1-96d0-60952c6cdb9c', req.body);
 
     // Call the search API/service to fetch the matching products
